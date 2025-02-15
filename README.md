@@ -1,1 +1,1 @@
-c# symmetrical-winner
+hc# symmetrical-winner
